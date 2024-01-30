@@ -3,4 +3,4 @@ from django.http import HttpResponse
 # Create your views here.
 
 def fun(request):
-    return HttpResponse("Hello")
+    return HttpResponse("Hello TCS, Python application testing")
